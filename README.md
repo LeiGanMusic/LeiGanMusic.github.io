@@ -1,2 +1,2 @@
 # LeiGanMusic.github.io
-# Lei GAN's Homepage
+Lei GAN's Homepage
